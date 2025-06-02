@@ -44,8 +44,6 @@ I'm **Jacqueline Grecco**, a Senior Data Engineer passionate about data, archite
 
 ---
 
-✨ Always building. Always learning. Always hungry for good data (and good food).
-
 
 
 
